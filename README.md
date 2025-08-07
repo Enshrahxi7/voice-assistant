@@ -56,4 +56,4 @@ code .
 Make sure all project files are in place.
 
 # Project Showcase
-![ai](ai.mp4)
+[Download the AI video](./ai.mp4)
