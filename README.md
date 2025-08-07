@@ -6,9 +6,13 @@ An intelligent Arabic voice assistant that quickly understands user speech, resp
 
 # Key Features:
  • Fast response time ( 6 seconds)
+ 
  • Realistic voice replies using ElevenLabs
+ 
  • Advanced Arabic understanding via Cohere NLP
+ 
  • Sleek and interactive web interface
+ 
  • Simple, modular, and scalable codebase
 
 # Development Setup:
