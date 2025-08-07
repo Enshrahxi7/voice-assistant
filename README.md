@@ -19,18 +19,27 @@ To build a fast and intelligent Arabic voice assistant, the following libraries 
 
 # Audio Input & Output
  • sounddevice – captures live audio from the microphone
+ 
  • pygame – plays audio responses seamlessly
+ 
  • gTTS – generates Arabic speech from text using Google Text-to-Speech
+ 
  • io.BytesIO – enables in-memory audio streaming without saving files
 
 # Speech Recognition & NLP
+
  • faster_whisper – performs quick and accurate Arabic speech-to-text
+ 
  • cohere – understands context and generates smart, Arabic-aware replies
 
 # Core Utilities & Processing
+
  • numpy – processes and handles audio data efficiently
+ 
  • requests – sends and receives data from external APIs
+ 
  • flask – powers the web-based interface for user interaction
+ 
 These tools form a cohesive and extensible system for real-time Arabic voice interaction.
 
  # Running the Project – Step-by-Step Guide
